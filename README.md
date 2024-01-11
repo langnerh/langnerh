@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- My name is Hennessy and my pronouns are she/her. 
+- I am on the McMaster Squash Team. 
+- I am looking forward to learning how to use GitHub and some different coding languages. 
+- Once I am finished school I hope to move out to Vancouver!
 <!--
 **langnerh/langnerh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
